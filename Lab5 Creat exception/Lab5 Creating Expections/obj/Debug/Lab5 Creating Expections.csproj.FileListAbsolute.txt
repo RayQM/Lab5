@@ -1,0 +1,8 @@
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab5 Creat exception\Lab5 Creating Expections\bin\Debug\Lab5 Creating Expections.exe.config
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab5 Creat exception\Lab5 Creating Expections\bin\Debug\Lab5 Creating Expections.exe
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab5 Creat exception\Lab5 Creating Expections\bin\Debug\Lab5 Creating Expections.pdb
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab5 Creat exception\Lab5 Creating Expections\obj\Debug\Lab5 Creating Expections.csproj.AssemblyReference.cache
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab5 Creat exception\Lab5 Creating Expections\obj\Debug\Lab5 Creating Expections.csproj.SuggestedBindingRedirects.cache
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab5 Creat exception\Lab5 Creating Expections\obj\Debug\Lab5 Creating Expections.csproj.CoreCompileInputs.cache
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab5 Creat exception\Lab5 Creating Expections\obj\Debug\Lab5 Creating Expections.exe
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab5 Creat exception\Lab5 Creating Expections\obj\Debug\Lab5 Creating Expections.pdb
